@@ -325,7 +325,8 @@
     "resume_seeding": "Continuar sembrando",
     "options": "Administrar",
     "extract": "Extraer archivos",
-    "extracting": "Extrayendo archivos…"
+    "extracting": "Extrayendo archivos…",
+    "installing": "Instalando…"
   },
   "settings": {
     "downloads_path": "Ruta de descarga",
@@ -478,7 +479,9 @@
     "new_friend_request_description": "{{displayName}} te envió una solicitud de amistad",
     "new_friend_request_title": "Nueva solicitud de amistad",
     "extraction_complete": "Extracción completada",
+    "installation_complete":"Instalación completada",
     "game_extracted": "{{title}} extraído exitosamente",
+    "game_installed": "{{title}} instalado exitosamente",
     "friend_started_playing_game": "{{displayName}} empezó a jugar un juego",
     "test_achievement_notification_title": "Esto es una notificación de prueba",
     "test_achievement_notification_description": "Piola, ¿verdad?"

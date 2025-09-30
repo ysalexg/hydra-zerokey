@@ -16,14 +16,14 @@ src/types/download.types.ts
 # Build
 -----------------
 yarn build; yarn electron-builder
-copy python rpc to resources
-copy zerokey to resources
+copy python rpc & zerokey to resources
 
 # Sync with upstream
 -----------------
 git fetch upstream -> downloads changes
 git checkout main
-git merge upstream/main -> merge changes
+<!-- git merge upstream/main -> merge changes -->
+git rebase upstream/main
 git push origin main
 
 # Succesful
